@@ -17,7 +17,6 @@ In 2024 I led our platform migration from WeSustain to Osapiens, designing the d
 - 🌱 Led SBTi supplier engagement programme across 200+ global suppliers
 - 🤖 Built AI-powered ESG reporting pipeline independently using the Claude API
 
-**From October 2026 — joining Linde Material Handling (KION Group) as Manager Sustainability Data & Analytics.**
 
 ---
 
