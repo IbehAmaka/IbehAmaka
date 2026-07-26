@@ -42,7 +42,8 @@ In 2024 I led our platform migration from WeSustain to Osapiens, designing the d
 ### 🔨 What I have built
 
 **AI-Powered ESG Reporting Pipeline**
-End-to-end automated sustainability reporting pipeline built independently using the Claude API. Processes ESG data submissions, flags anomalies, and generates structured reporting outputs — reducing manual review burden while maintaining full audit traceability. Explores where AI can add value in CSRD-compliant reporting workflows without replacing human judgement.
+End-to-end automated sustainability reporting pipeline built independently using the Claude API. Processes ESG data submissions, flags anomalies, and generates structured reporting outputs — reducing manual review burden while maintaining full audit traceability. Explores where AI can add value in CSRD-compliant reporting workflows without replacing human judgement. 
+→ [View on GitHub](https://github.com/IbehAmaka/shipping-decarbonization-benchmark)
 
 **German Banking Sector SQL Analysis**
 Comprehensive SQL analysis of the German banking sector — segmentation, performance benchmarking, and trend analysis across multiple institutions. Demonstrates complex query writing, CTEs, window functions, and structured analytical storytelling.
